@@ -1,8 +1,9 @@
-# myapp
+# Jogo da Velha
 
-A new Flutter project.
+Atividade desenvolvida para a disciplina - Desenvolvimento WEB
+*Professor: Ariangelo Dias - Talento Tech
 
-## Getting Started
+## Kettellenn Mendes
 
 This project is a starting point for a Flutter application.
 
